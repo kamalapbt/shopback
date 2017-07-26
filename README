@@ -1,0 +1,4 @@
+Setup
+- First go to Project root directory
+- Run pod command
+        $ pod install
